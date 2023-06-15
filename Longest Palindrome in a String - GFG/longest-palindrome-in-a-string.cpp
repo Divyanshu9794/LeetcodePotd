@@ -4,6 +4,7 @@ using namespace std;
 
 
 // } Driver Code Ends
+
 class Solution {
   public:
         int helper(string s,int l,int h)
@@ -32,6 +33,7 @@ for(int i=0;i<S.size();i++)
 return S.substr(l,h-l+1);
 }
 };
+
 
 //{ Driver Code Starts.
 

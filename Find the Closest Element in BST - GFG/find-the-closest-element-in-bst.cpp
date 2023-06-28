@@ -37,11 +37,24 @@ class Solution
     public:
     //Function to find the least absolute difference between any node
 	//value of the BST and the given integer.
-    int minDiff(Node *root, int K)
+    int minDiff(Node *root, int k)
     {
-        return (!root ? K:
-        min({minDiff(root->left,K),minDiff(root->right,K),abs(K-root->data)}));
+        //Your code here
+        if(!root)
+        return INT_MAX;
+        
+        if(root->data==k)
+        return 0;
+        
+        else if(k>root->data)
+        return min(k-root->data,minDiff(root->right,k));
+        else
+        return min(root->data-k,minDiff(root->left,k));
+        
+        
     }
+
+
 };
 
 

@@ -264,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

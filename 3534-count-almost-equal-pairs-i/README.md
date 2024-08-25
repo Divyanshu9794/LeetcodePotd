@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-almost-equal-pairs-i">3534. Count Almost Equal Pairs I</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> consisting of positive integers.</p>
+<h2><a href="https://leetcode.com/problems/count-almost-equal-pairs-i">Count Almost Equal Pairs I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array <code>nums</code> consisting of positive integers.</p>
 
 <p>We call two integers <code>x</code> and <code>y</code> in this problem <strong>almost equal</strong> if both integers can become equal after performing the following operation <strong>at most once</strong>:</p>
 

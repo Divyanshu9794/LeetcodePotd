@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid">3558. Find a Safe Walk Through a Grid</a></h2><h3>Medium</h3><hr><p>You are given an <code>m x n</code> binary matrix <code>grid</code> and an integer <code>health</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-a-safe-walk-through-a-grid">Find a Safe Walk Through a Grid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an <code>m x n</code> binary matrix <code>grid</code> and an integer <code>health</code>.</p>
 
 <p>You start on the upper-left corner <code>(0, 0)</code> and would like to get to the lower-right corner <code>(m - 1, n - 1)</code>.</p>
 

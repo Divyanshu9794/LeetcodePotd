@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2645-pass-the-pillow) |

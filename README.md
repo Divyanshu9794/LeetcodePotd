@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3778-transform-array-by-parity](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3291-find-if-array-can-be-sorted) |
+| [3778-transform-array-by-parity](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3778-transform-array-by-parity](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3778-transform-array-by-parity) |
 ## Strongly Connected Component
 |  |
 | ------- |

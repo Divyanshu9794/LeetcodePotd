@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1256-rank-transform-of-an-array) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2308-divide-array-into-equal-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |

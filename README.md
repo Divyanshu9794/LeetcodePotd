@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3430-count-days-without-meetings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3643-zero-array-transformation-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3430-count-days-without-meetings) |
 | [3778-transform-array-by-parity](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |

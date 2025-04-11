@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2998-count-symmetric-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |

@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2681-put-marbles-in-bags) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2727-number-of-senior-citizens) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2716-prime-subtraction-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3291-find-if-array-can-be-sorted) |

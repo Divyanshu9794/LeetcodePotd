@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0731-my-calendar-ii) |
+| [0797-rabbits-in-forest](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0890-lemonade-change) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0906-walking-robot-simulation) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1304-longest-happy-string) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1642-water-bottles) |

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1240-stone-game-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1951-find-the-winner-of-the-circular-game) |

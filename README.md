@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2681-put-marbles-in-bags) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String
 |  |
 | ------- |
@@ -713,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3548-find-the-count-of-good-integers) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->

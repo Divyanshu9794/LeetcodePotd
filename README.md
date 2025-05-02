@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0868-push-dominoes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1197-parsing-a-boolean-expression) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0664-strange-printer) |
+| [0868-push-dominoes](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1240-stone-game-ii) |

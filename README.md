@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2803-modify-graph-edge-weights) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Data Stream
 |  |
 | ------- |

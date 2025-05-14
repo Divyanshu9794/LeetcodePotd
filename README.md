@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3548-find-the-count-of-good-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -583,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2308-divide-array-into-equal-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3778-transform-array-by-parity](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3778-transform-array-by-parity) |
 ## Strongly Connected Component
 |  |

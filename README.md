@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3778-transform-array-by-parity](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3778-transform-array-by-parity) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
 | [3778-transform-array-by-parity](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2803-modify-graph-edge-weights) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2915-count-of-interesting-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
 ## Game Theory
 |  |
 | ------- |

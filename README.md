@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0999-regions-cut-by-slashes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2793-count-the-number-of-complete-components) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1302-delete-characters-to-make-fancy-string) |

@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2308-divide-array-into-equal-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2586-longest-square-streak-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2716-prime-subtraction-operation) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2727-number-of-senior-citizens) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2846-robot-collisions) |
 ## Tree

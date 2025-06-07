@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2846-robot-collisions) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
 |  |
 | ------- |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2681-put-marbles-in-bags) |
 | [2803-modify-graph-edge-weights](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2803-modify-graph-edge-weights) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
 ## Data Stream

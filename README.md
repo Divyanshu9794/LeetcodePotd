@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
 | ------- |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/2915-count-of-interesting-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu9794/LeetcodePotd/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
 | ------- |

@@ -1,3 +1,4 @@
+// T(n)= O(kn), SC=O(n)
 class Solution {
 public:
 
@@ -38,3 +39,5 @@ public:
         return f(0,0,k,prices,dp);
     }
 };
+
+

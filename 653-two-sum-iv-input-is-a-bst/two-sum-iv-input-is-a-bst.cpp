@@ -9,36 +9,65 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
 
-    void inorder(TreeNode* root,vector<int> &in){
-    if(root==NULL){
-        return ;
+class BSTIterator{
+    stack<TreeNode*>  stk;
+    bool reverse = true;
+    public:
+        BSTIterator(TreeNode* root,bool isreverse){
+            reverse = isreverse;
+            pushAll(root);
+        }
+        bool hasbext(){
+            return !stk.empty();
+        }
 
-    }
-    inorder(root->left, in);
-    in.push_back(root->val);
-    inorder(root->right,in);
-}
-
-    bool findTarget(TreeNode* root, int target) {
-        vector<int> in;
-        inorder(root,in);
-        int i=0;
-        int j = in.size()-1;
-        while(i<j){
-            if(in[i]+in[j]==target){
-                return 1;
-            }
-            else if(in[i]+in[j]>target){
-                j--;
+        int next(){
+            TreeNode* tmpnode =stk.top();
+            stk.pop();
+            if(!reverse){
+                pushAll(tmpnode->right);
             }
             else{
-                i++;
+                pushAll(tmpnode->left);
+            }
+            return tmpnode->val;
+        }
+    private:
+        void pushAll(TreeNode* node){
+            for(; node!=NULL;){
+                stk.push(node);
+                if(reverse==true){
+                    node = node->right;
+                }
+                else{
+                    node=node->left;
+                }
             }
         }
-        return 0;
-        
+};
+
+class Solution {
+public:
+    bool findTarget(TreeNode* root, int k) {
+        if(!root){
+            return false;
+        }      
+        BSTIterator l(root,false);
+        BSTIterator r(root,true);
+        int i =l.next(),j=r.next();
+        while(i<j){
+            if(i+j==k){
+                return true;
+            }
+            else if(i+j<k){
+                i=l.next();
+            }
+            else{
+                j=r.next();
+            }
+        }
+
+        return false;
     }
 };

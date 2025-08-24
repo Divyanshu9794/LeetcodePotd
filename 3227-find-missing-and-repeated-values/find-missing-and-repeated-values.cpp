@@ -1,39 +1,26 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        int n= grid.size();
-        int siz = n*n;
-        int repeating =0,missing =0;
-        int sum = (siz*(siz+1))/2;
-        unordered_set<int> s;
-        for(auto &i: grid){
-            for(int a: i){
-                s.insert(a);
+        int n = grid.size();
+        int repeating = -1, missing = -1;
+        map<int,int> mp;
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<n; j++){
+                mp[grid[i][j]]++;
             }
         }
-        int stsum=0;
-        for(auto x:s){
-            stsum+=x;
 
-        }
-        missing = sum-stsum;
-        int arraysum =0;
-        for(auto &i: grid){
-            for(int a: i){
-                arraysum+=a;
+        // Check from 1 to n*n
+        for(int i=1; i<=n*n; i++){
+            if(mp[i] == 0){          // not present
+                missing = i;
+            }
+            else if(mp[i] == 2){     // repeated twice
+                repeating = i;
             }
         }
-        repeating = arraysum-stsum;
-        // for(int i=1;i<=n*n;i++){
-        //     if(!mp.count(i)){
-        //         missing= i;
-        //     }
-        //     else if(mp[i]==2){
-        //         repeating = i;
-        //     }
-        // }
 
-        return {repeating,missing};
-        
+        return {repeating, missing};
     }
 };

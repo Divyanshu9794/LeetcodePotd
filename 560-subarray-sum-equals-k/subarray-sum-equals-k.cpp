@@ -1,14 +1,16 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-         unordered_map<int,int> mp;
-        int curr=0,ans=0;
+        int n = nums.size();
+        int presum =0,cnt =0;
+        map<int,int>mp;
         mp[0]=1;
-        for(int i:nums){
-            curr+=i;
-            ans+= mp[curr-k];
-            mp[curr] ++;
+        for(int i=0;i<n;i++){
+            presum += nums[i];
+            int remove = presum -k;
+            cnt += mp[remove];
+            mp[presum]+=1;
         }
-        return ans;
+        return cnt;
     }
 };

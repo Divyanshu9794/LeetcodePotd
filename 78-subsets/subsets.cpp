@@ -1,36 +1,23 @@
+
 class Solution {
 public:
-    void subsetsUtil(vector<int>& A, vector<vector<int> >& res,
-                 vector<int>& subset, int index)
-{
-    res.push_back(subset);
-     
-    for (int i = index; i < A.size(); i++) {
- 
-      
-        subset.push_back(A[i]);
- 
-        
-        subsetsUtil(A, res, subset, i + 1);
- 
-       
-        subset.pop_back();
+    void findsubset(int ind, vector<int>& nums, vector<int>& ds, 
+    vector<vector<int>>& ans){
+        ans.push_back(ds);
+        for(int i=ind;i<nums.size();i++){
+            if(i!=ind && nums[i]== nums[i-1]){
+                continue;
+            }
+            ds.push_back(nums[i]);
+            findsubset(i+1,nums,ds,ans);
+            ds.pop_back();
+        }
     }
- 
-    return;
-}
- 
-
-vector<vector<int> > subsets(vector<int>& A)
-{
-    vector<int> subset;
-    vector<vector<int> > res;
- 
-    
-    int index = 0;
-    subsetsUtil(A, res, subset, index);
- 
-    return res;
-}
- 
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>> ans;
+        vector<int>ds;
+        sort(nums.begin(),nums.end());
+        findsubset(0,nums,ds,ans);
+        return ans;
+    }
 };

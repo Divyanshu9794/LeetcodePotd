@@ -1,48 +1,24 @@
-
 class Solution {
-  public:
-    void generate(vector<int>& candidates,int ind, int target, vector<int>& ans, vector<vector<int>>& comb){
-        if(ind==candidates.size()){
+public:
+    void findcombination(int ind, int target,vector<int>& candidates,
+    vector<vector<int>>& ans,vector<int>& ds ){
+        if(ind == candidates.size()){
             if(target==0){
-                
-                comb.push_back(ans);
+                ans.push_back(ds);
             }
             return;
         }
-            
         if(candidates[ind]<=target){
-            ans.push_back(candidates[ind]);
-            generate(candidates, ind, target-candidates[ind], ans, comb);
-            ans.pop_back();
+            ds.push_back(candidates[ind]);
+            findcombination(ind,target-candidates[ind],candidates,ans,ds);
+            ds.pop_back();
         }
-
-        generate(candidates, ind+1, target, ans, comb);
-            
+        findcombination(ind+1,target,candidates,ans,ds);
     }
-
-    vector<int> removeRepeated(vector<int>& a){
-        int n = a.size();
-        vector<int> unq;
-        unordered_map<int, int> m;
-    
-        for(int i=0;i<n;i++){
-            m[a[i]]++;
-        }
-        for(auto j: m){
-            unq.push_back(j.first);
-        }
-        return unq;
-    }
-    
-    vector<vector<int> > combinationSum(vector<int> &candidates, int target) {
-        vector<vector<int>> comb;
-        vector<int> ans;
-        
-        sort(candidates.begin(), candidates.end());
-        candidates = removeRepeated(candidates);
-        sort(candidates.begin(), candidates.end());
-        
-        generate(candidates, 0, target, ans, comb);
-        return comb;
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
+        vector<int> ds;
+        findcombination(0,target,candidates,ans,ds);
+        return ans;
     }
 };

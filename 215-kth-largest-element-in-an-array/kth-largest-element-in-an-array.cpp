@@ -1,24 +1,34 @@
 class Solution {
 public:
     int findKthLargest(vector<int>& arr, int k) {
-        
-        // int l = nums.size();
-        // sort(nums.begin(), nums.end());
-        // reverse(nums.begin(), nums.end());
-        // if((k-1)<0){
-        //     return nums[0];
-        // }
-        // return nums[k-1];
-
-        priority_queue<int, vector<int>, greater<int>> q;
-
-        for (int i = 0; i < arr.size(); i++) {
-            q.push(arr[i]);
-            if (q.size() > k) {
-                q.pop();  
-            }
+        int n = arr.size();
+        priority_queue<int> pq;
+        for(int i=0;i<n;i++){
+            pq.push(arr[i]);
         }
-        return q.top(); 
-    
+        for(int i=1;i<k;i++){
+            
+                pq.pop();
+        }
+        return pq.top();
     }
 };
+
+// class Solution {
+//   public:
+//     int kthSmallest(vector<int> &arr, int k) {
+//         // code here
+//         priority_queue<int> pq;
+//         for(int i=0;i<k;i++){
+//             pq.push(arr[i]);
+//         }
+//         int n = arr.size();
+//         for(int i=k;i<n;i++){
+//             if(arr[i]<pq.top()){
+//                 pq.pop();
+//                 pq.push(arr[i]);
+//             }
+//         }
+//         return pq.top();
+//     }
+// };

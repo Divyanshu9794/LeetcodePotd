@@ -1,47 +1,44 @@
 class Solution {
 public:
-    int sumSubarrayMins(vector<int>& arr) {
-        const unsigned int M = 1000000007;
+    vector<int> findnse(vector<int>& arr){
+        int n = arr.size();
+        vector<int> nse(n);
         stack<int> st;
-        int ans=0;
-        int n=arr.size();
-        vector<int> nse(n),pse(n);
-        st.push(0);
-        for(int i=1;i<n;i++)
-        {
-            while(!st.empty() && arr[st.top()]>arr[i])
-            {
-                nse[st.top()]=i;
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty() && arr[st.top()]>=arr[i]){
                 st.pop();
             }
+            nse[i] = st.empty() ? n:st.top();
             st.push(i);
         }
-        while(!st.empty())
-        {
-            nse[st.top()]=n;
-            st.pop();
-        }
-        st.push(n-1);
-        for(int i=n-2;i>=0;i--)
-        {
-            while(!st.empty() && arr[st.top()]>=arr[i])
-            {
-                pse[st.top()]=i;
-                st.pop();
-            }
-            st.push(i);
-        }
-        while(!st.empty())
-        {
-            pse[st.top()]=-1;
-            st.pop();
-        }
-        for(int i=0;i<n;i++)
-        {
-            ans=ans%M+((arr[i]%M)*(nse[i]-i)*(i-pse[i]))%M;
-            
-        }
-        return ans%M;
+        return nse;
+    }
 
+    vector<int> findpsee(vector<int>& arr){
+        int n = arr.size();
+        vector<int> psee(n);
+        stack<int> st;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && arr[st.top()]> arr[i]){
+                st.pop();
+            }
+            psee[i] = st.empty() ? -1:st.top();
+            st.push(i);
+        }
+        return psee;
+    }
+    int sumSubarrayMins(vector<int>& arr) {
+        vector<int> nse = findnse(arr);
+        vector<int> psee = findpsee(arr);
+        int n = arr.size();
+        int total =0;
+        int mod= (int)(1e9+7);
+        for(int i=0;i<n;i++){
+            int left = i-psee[i];
+            int right = nse[i]-i;
+            total = (total + (right * left * 1LL * arr[i])%mod)%mod;
+
+        }
+        return total;
     }
 };
